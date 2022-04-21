@@ -13,7 +13,7 @@
 // If you don't know how to get a bot token, please see the guide here:
 // https://github.com/jagrosh/MusicBot/wiki/Getting-a-Bot-Token
 
-token = "ODg5ODY1Nzk5NjcyNjYwMDQ4.YUneGw.H9QiLhztjv3a7IMo7NoRMfLM94U"
+token = "DiscordBotToken"
 
 
 // This sets the owner of the bot
