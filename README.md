@@ -8,3 +8,4 @@ If you want to invite the bot that is hostet by me, you can click [here](https:/
  Create an file named <Playlist-Name>.txt and put it in the PLaylist folder
  If you need help with creating a new Playlist, take a look at the official [Page](https://jmusicbot.com/playlists/#local-playlists) or feel free to ask HIRO
  
+This Bot ist coded by [jargrosh](https://github.com/jagrosh)
